@@ -1,0 +1,7 @@
+{
+    "name": "Clap Message",
+    "version": "1.0.0",
+    "description": "Replaces every space with a clap.",
+    "author": "keanucode",
+    "license": "Apache-2.0"
+}
